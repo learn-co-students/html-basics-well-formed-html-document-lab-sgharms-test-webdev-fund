@@ -22,7 +22,7 @@ page at all. So it's important we put every piece in its place at the beginning.
 
 To get started, open `index.html` in your text editor.
 
-## Add an Appropriate `doctype` Tag to the Top of an HTML File
+## Add an Appropriate `doctype`  Tag to the Top of an HTML File
 
 The first step is always to add a `doctype` declaration at the top of the file
 indicating to the browser how the HTML should be handled, and, in particular,
